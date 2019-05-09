@@ -11,4 +11,4 @@ Bunch of projects to practice for python libraries such as **numpy**, **pandas**
   - Check if your answers are correct with ```solution.ipynb``` file.
 
 ## Notice
-  - You need to setup jupyter notebook file.
+  - You need to setup jupyter notebook in advance.
