@@ -1,4 +1,4 @@
-# python_libraries_practice
+# Python Libraries Practice
 Bunch of projects to practice how to use python libraries such as **numpy**, **pandas**, **scipy**, and **matplotlib**. Original ideas of the projects are from Codecademy.
 
 ## How to use
