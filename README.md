@@ -12,3 +12,4 @@ Bunch of projects to practice how to use python libraries such as **numpy**, **p
 
 ## Notice
   - You need to setup jupyter notebook in advance to open ipynb files.
+  - Each exercise has a readme in which there is a link to a free tutorial video for the exercise. Check them out whenever you get stuck.
